@@ -1,0 +1,23 @@
+DATA STRUCTURES
+ASSIGNMENT
+
+Submitted by
+Rohith Reddy - 160953140
+Roshan Chembakasseril - 160953156
+Ayush Tiwari - 160953150
+Dhruv Bharath - 160953154
+Harshit Saxena - 160953011
+
+BTECH(CCE) –III SEMESTER , SECTION B
+DEPARTMENT OF I&CT, MIT, MANIPAL
+
+QUESTION 1 :
+An interesting problem is to print out all the anagrams of a given word. That is, given an N-letter word with all letters 
+different, print all the “words” you can form using each letter once, regardless of whether they are actual words in some language.
+The number of such rearrangements is N-factorial where N is the number of letters. The problem can be solved in several different 
+ways, one of which uses one queue and one stack.
+
+QUESTION 2 :
+Write a C++ program to do the following:
+- Create a binary tree
+- Determine the equivalence of 2 binary trees
